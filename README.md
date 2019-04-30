@@ -1,0 +1,2 @@
+# docsmarket
+Le site Docsmarket a été crée dans le but de contenir tout types de documents PDF dans tout les domaines. Et notre objectif est de subvenir à vos préoccupations et vos besoins dans tout les domaines. Docsmarket fonctionne de manière progressive c’est-à-dire au fut et à mesure de nouveaux domaines s’ajoutent vue que le monde contient des milliers voir des milliards des domaines. pour quelqu’un qui fait des recherches et qu’il ne trouve pas de résultats
